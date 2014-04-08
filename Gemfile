@@ -38,3 +38,6 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'rspec-rails', '~> 2.0', groups: [:development, :test]
+
+gem 'capybara', '~>2.1.0', group: :test
