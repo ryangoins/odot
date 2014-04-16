@@ -41,3 +41,6 @@ gem 'spring',        group: :development
 gem 'rspec-rails', '~> 2.0', groups: [:development, :test]
 
 gem 'capybara', '~>2.1.0', group: :test
+gem 'minitest', group: :test
+gem 'shoulda-matchers', '~> 2.4.0', group: :test
+
